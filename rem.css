@@ -1,0 +1,17 @@
+body{
+    background-color:#ffc88f;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    font-size:250%;
+    margin-top:0;
+}
+.hey{
+    font-size:400%;
+    margin-bottom: 0px;
+}
+div{
+    margin-top:250px;
+    margin-bottom:250px;
+}
